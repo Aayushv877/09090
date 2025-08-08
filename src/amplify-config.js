@@ -8,8 +8,8 @@ export const awsconfig = {
         oauth: {
           domain: 'us-east-2mzuemm9i0.auth.us-east-2.amazoncognito.com',
           scopes: ['email', 'openid', 'profile'],
-          redirectSignIn: ['https://main.d2hyysa8rccvus.amplifyapp.com/'],
-          redirectSignOut: ['https://main.d2hyysa8rccvus.amplifyapp.com/'],
+          redirectSignIn: ['https://main.dbl9hzga3p88m.amplifyapp.com/'],
+          redirectSignOut: ['https://main.dbl9hzga3p88m.amplifyapp.com/'],
           responseType: 'code', // Required for PKCE
         },
       },
